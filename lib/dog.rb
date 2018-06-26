@@ -20,3 +20,7 @@ def breed=(breed)
 end
 
 end
+
+class Person
+end
+
