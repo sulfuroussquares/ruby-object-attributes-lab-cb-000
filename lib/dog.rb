@@ -8,6 +8,6 @@ def name
 end
 
 def name=(name)
-  @name = new_name
+  @name = name
 end
 end
